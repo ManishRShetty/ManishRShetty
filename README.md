@@ -13,14 +13,14 @@
 - 💡 Exploring: **Generative AI**, **Augmented Reality**, and **Smart Systems**
 - 🌱 Actively learning: **React**, **Firebase**, **OpenStreetMap APIs**
 - ✨ Passionate about building tech that solves real-world problems
-- 📫 Reach me at: `manishrshetty.dev@gmail.com`
+- 📫 Reach me at: `mmanishrshetty@gmail.com`
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,python,firebase,threejs,figma,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,python,firebase,,figma,vscode,github" />
 </p>
 
 ---
