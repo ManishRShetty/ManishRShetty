@@ -80,14 +80,14 @@ I build systems that combine **aesthetics**, **intelligence**, and **real-world 
 <!-- STATS -->
 ### 📊 GitHub Insights
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishrshetty&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=manishrshetty&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishrshetty&theme=radical" />
-</p>
+</p> -->
 
 ---
 
