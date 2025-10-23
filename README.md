@@ -35,7 +35,7 @@ I build systems that combine **aesthetics**, **intelligence**, and **real-world 
 ### 🎨 UI/UX & Design Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,canva" />
+  <img src="https://skillicons.dev/icons?i=figma,aftereffects,photoshop,illustrator,premierpro,canva" />
 </p>
 
 <p align="center">
