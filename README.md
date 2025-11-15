@@ -33,12 +33,10 @@
     <h2 style="font-size: 32px; font-weight: 600; color: #FFFFFF; letter-spacing: -0.5px; margin-top: 0; margin-bottom: 32px;">
       ⚙️ Tech Toolkit
     </h2>
-
     <h3 style="font-size: 20px; font-weight: 500; color: #8E8E93; margin-bottom: 16px; border-top: 1px solid #2C2C2E; padding-top: 32px;">Tech Arsenal</h3>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,python,firebase,figma,docker,git,github,linux,vscode" />
     </p>
-
     <h3 style="font-size: 20px; font-weight: 500; color: #8E8E93; margin-bottom: 16px; border-top: 1px solid #2C2C2E; padding-top: 32px; margin-top: 32px;">UI/UX & Design Tools</h3>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=figma,aftereffects,photoshop,illustrator,premierpro,canva" />
@@ -46,7 +44,6 @@
     <p align="center" style="color: #8E8E93; font-size: 14px; font-style: italic; margin-top: 16px;">
       "Design isn’t how it looks, it’s how it feels — I focus on clarity, flow, and emotion."
     </p>
-
     <h3 style="font-size: 20px; font-weight: 500; color: #8E8E93; margin-bottom: 16px; border-top: 1px solid #2C2C2E; padding-top: 32px; margin-top: 32px;">Generative AI</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -54,7 +51,6 @@
       <img src="https://img.shields.io/badge/HuggingFace-FED141?style=for-the-badge&logo=huggingface&logoColor=black" />
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     </p>
-
     <h3 style="font-size: 20px; font-weight: 500; color: #8E8E93; margin-bottom: 16px; border-top: 1px solid #2C2C2E; padding-top: 32px; margin-top: 32px;">DevOps & Cloud</h3>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=docker,vercel,aws,githubactions,nginx,linux" />
