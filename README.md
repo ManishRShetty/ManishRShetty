@@ -19,7 +19,7 @@
     Full-stack developer with a creative edge for design and innovation.
     I build systems that combine <b style="color: #FAFAFA;">aesthetics</b>, <b style="color: #FAFAFA;">intelligence</b>, and <b style="color: #FAFAFA;">real-world impact</b>.
   </p>
-  <div style="color: #8E8E93; font-size: 16px; line-height: 1.7; max-width: 600px; margin: 0 auto; text-align: left; padding-left: 20px;">
+  <div style="color: #8E8E93; font-size: 16px; line-height: 1.7; max-width: 600px; margin: 0 auto; text-align: left; padding-left: 20px; list-style: none">
     <ul style="list-style: none; padding-left: 0;">
       <li style="margin-bottom: 8px;"><span style="margin-right: 12px; font-size: 20px;">🔭</span> Currently building: <b style="color: #FAFAFA;">Ambulance Priority System</b> & <b style="color: #FAFAFA;">Multiplayer Drawing Game</b></li>
       <li style="margin-bottom: 8px;"><span style="margin-right: 12px; font-size: 20px;">💡</span> Exploring: <b style="color: #FAFAFA;">Generative AI</b>, <b style="color: #FAFAFA;">Next.js</b>, <b style="color: #FAFAFA;">AR Interfaces</b>, <b style="color: #FAFAFA;">System Design</b></li>
