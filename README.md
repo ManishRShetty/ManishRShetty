@@ -15,7 +15,7 @@
     <a href="https://manishshetty.dev">
       <img src="https://img.shields.io/badge/View_Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
     </a>
-    <a href="mailto:manishrshetty.dev@gmail.com">
+    <a href="mailto:contact@manishshetty.dev">
       <img src="https://img.shields.io/badge/Hire_Me-238636?style=for-the-badge&logo=minutemailer&logoColor=white" height="32" />
     </a>
   </p>
