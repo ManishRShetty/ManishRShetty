@@ -1,7 +1,7 @@
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; max-width: 800px; margin: 0 auto; color: #E6EDF3;">
 
   <br />
-  <img src="https://raw.githubusercontent.com/manishrshetty/manishrshetty/main/GITHUBHEADER.png" alt="Manish R Shetty" width="100%" style="border-radius: 12px; border: 1px solid #30363D; opacity: 0.9;" onerror="this.style.display='none'" onclick="manishshetty.dev"/>
+  <img src="https://raw.githubusercontent.com/manishrshetty/manishrshetty/main/header1.png" alt="Manish R Shetty" width="100%" style="border-radius: 12px; border: 1px solid #30363D; opacity: 0.9;" onerror="this.style.display='none'" onclick="manishshetty.dev"/>
   
   <h1 style="font-size: 48px; font-weight: 800; letter-spacing: -1.5px; margin-bottom: 8px; background: linear-gradient(135deg, #FFF 0%, #888 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Manish R Shetty
